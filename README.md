@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Getting and Cleaning Data
 Course Project
 
@@ -19,6 +18,3 @@ Steps to work on this course project
 Dependencies
 
 run_analysis.R file will help you to install the dependencies automatically. 
-=======
-# Getting-and-Cleaning-Data
->>>>>>> 1fb98d85f15d805d85838ccbacb862554f4acc8d
